@@ -985,7 +985,7 @@ params:
   # A button to open designated chat widget in sidebar.
   # Firstly, you need to enable and configure the chat service.
   chat:
-    enable: false
+    enable: true
     icon: fa fa-comment # Icon name in Font Awesome, set false to disable icon.
     text: Chat # Button text, change it as you wish.
 
@@ -994,6 +994,7 @@ params:
   gitter:
     enable: true
     room: hugo-next/community
+          #123de234/community
 
 
   # ---------------------------------------------------------------
