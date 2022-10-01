@@ -819,7 +819,7 @@ params:
     imgUploader: false
     wordLimit: 200
     requiredMeta: ['nick', 'mail']
-    serverURL: https://walinejs.comment.lithub.cc/ui/login?lng=zh-CN
+    serverURL: https://waline-123de234.vercel.app/
 
   # Artalk 评论插件
   # 更多配置信息请参考：https://artalk.js.org
@@ -993,8 +993,8 @@ params:
   # For more information: https://gitter.im
   gitter:
     enable: true
-    room: hugo-next/community
-          #123de234/community
+    room: #hugo-next/community
+          123de234/community
 
 
   # ---------------------------------------------------------------
