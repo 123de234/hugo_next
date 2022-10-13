@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 123de234&#39;s Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on 123de234&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 13 Oct 2022 16:26:27 +0800</lastBuildDate><atom:link href="/post/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cadence</title>
+      <link>/post/%E6%A8%A1%E9%9B%86/cadence/</link>
+      <pubDate>Thu, 13 Oct 2022 16:26:27 +0800</pubDate>
+      
+      <guid>/post/%E6%A8%A1%E9%9B%86/cadence/</guid>
+      <description>&lt;p&gt;仅以此篇文章来测试下在 &lt;code&gt;NexT&lt;/code&gt; 主题中在通过 &lt;code&gt;Hugo&lt;/code&gt; 引擎来建站时，是否支持 &lt;code&gt;Markdown&lt;/code&gt; 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Test</title>
+      <link>/post/markdown-test/</link>
+      <pubDate>Sat, 01 Oct 2022 02:51:07 +0800</pubDate>
+      
+      <guid>/post/markdown-test/</guid>
+      <description>&lt;p&gt;仅以此篇文章来测试下在 &lt;code&gt;NexT&lt;/code&gt; 主题中在通过 &lt;code&gt;Hugo&lt;/code&gt; 引擎来建站时，是否支持 &lt;code&gt;Markdown&lt;/code&gt; 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90%E5%9E%84%E6%96%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90%E5%9E%84%E6%96%AD/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
