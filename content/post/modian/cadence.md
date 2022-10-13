@@ -38,6 +38,3 @@ toc: true
 # Sticky pos t set-top in home page and the smaller nubmer will more forward.
 #weight: 1
 ---
-仅以此篇文章来测试下在 `NexT` 主题中在通过 `Hugo` 引擎来建站时，是否支持 `Markdown` 文件内容中所写的各种语法，并展示下实际的效果。
-
-<!--more-->
