@@ -2,15 +2,25 @@
 <search>
   
   <entry>
-    <title>Cadence</title>
-    <url>/post/%E6%A8%A1%E9%9B%86/cadence/</url>
+    <title>关于开源垄断的思考</title>
+    <url>/post/suibi/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90%E5%9E%84%E6%96%AD%E7%9A%84%E6%80%9D%E8%80%83/</url>
     <categories><category></category>
     </categories>
     <tags>
       <tag></tag>
     </tags>
-    <content type="html"><![CDATA[仅以此篇文章来测试下在 NexT 主题中在通过 Hugo 引擎来建站时，是否支持 Markdown 文件内容中所写的各种语法，并展示下实际的效果。
-]]></content>
+    <content type="html"><![CDATA[关于开源垄断的思考 ]]></content>
+  </entry>
+  
+  <entry>
+    <title>Cadence</title>
+    <url>/post/modian/cadence/</url>
+    <categories><category></category>
+    </categories>
+    <tags>
+      <tag></tag>
+    </tags>
+    <content type="html"><![CDATA[]]></content>
   </entry>
   
   <entry>
@@ -54,16 +64,6 @@ Xn + Yn = Zn
     <content type="html"><![CDATA[关于我 关于本站 这是一个关于我个人的Wiki，记录与分享日常学习中的一切思考与发现。
 与我联系 Email: yeweifengde@gmail.com || wyeak@connect.ust.hk 评论区功能测试中，欢迎给我留言 同时有关我个人学习与研究项目的进展今后也会在我的 Github Page 上进行更新，期待与大家的共同进步。
 ]]></content>
-  </entry>
-  
-  <entry>
-    <title></title>
-    <url>/post/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90%E5%9E%84%E6%96%AD/</url>
-    <categories>
-    </categories>
-    <tags>
-    </tags>
-    <content type="html"><![CDATA[]]></content>
   </entry>
   
   <entry>
