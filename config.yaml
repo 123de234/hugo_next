@@ -361,8 +361,8 @@ params:
   # Usage: `Key: name || permalink`
   links: 
     link0: 我的网盘 || https://pan.123de234.top
-    link1: 搜索小站 || 制作中
-
+    link1: 一起看电影 || http://14.29.168.67:2020
+    link3: 搜索小站 || 制作中
   # 文章目录显示
   # Table of Contents in the Sidebar
   # Front-matter variable (nonsupport wrap expand_all).
