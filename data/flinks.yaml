@@ -28,6 +28,14 @@
       avatar: https://oscpu.github.io/ysyx/res/logo/YSYX.png
       link: https://ysyx.oscc.cc/
 
+- FLinksTitle: 工具
+  FLinksDesc: 自用工具合集
+  FLinksList:
+    - name: MarkOnlie
+      desc: 在线Markdown编辑器
+      avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkINBrBz9oAkHwqmiY2vSEJj0V4KPa8a8RjuR39ArJo9zTLETJjqjBNjZIwxpgDcviECA&usqp=CAU
+      link: https://yank-note.vercel.app/
+
 
 - FLinksTitle: 博客与文章参考
   FLinksDesc: 知也有涯而学无涯
