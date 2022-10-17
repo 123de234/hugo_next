@@ -139,6 +139,13 @@ menus:
       pre: clock
       weight: 3
 
+    - identifier: Course
+      name: 课程
+      pageref: /course.html
+      #pre: thumbs-up
+      pre: book
+      weight: 4
+
     - identifier: flinks
       name: 工具小站
       pageref: /flinks.html

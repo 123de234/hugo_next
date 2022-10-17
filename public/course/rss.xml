@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on 123de234&#39;s Blog</title>
+    <link>/course/</link>
+    <description>Recent content in Courses on 123de234&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="/course/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/course/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course/test/</guid>
+      <description>CDA3103 - Computer Logic and Organization
+CDA3103 - Computer Logic and Organization Summer 2014 Class description: Functional overview of computer systems, interconnection of basic components, system performance measures, instruction set design, arithmetic logic unit, control unit, memory system, pipelining, interrupts and input-output. Instructor: Mr. Saad Ahmad Khan Teaching Assistants: Mr Junyao Zhang (zhangjunyao5518@gmail.com)
+Office Hours: Wed 4:00pm - 5:00pm (in HEC-231)
+Office: HEC - 315 Phone: (on last resort) E-mail: skhan@eecs.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -26,6 +26,27 @@
     </item>
     
     <item>
+      <title>课程信息</title>
+      <link>/course.html</link>
+      <pubDate>Fri, 30 Sep 2022 20:12:52 +0800</pubDate>
+      
+      <guid>/course.html</guid>
+      <description>CDA3103 - Computer Logic and Organization</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/course/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/course/test/</guid>
+      <description>CDA3103 - Computer Logic and Organization
+CDA3103 - Computer Logic and Organization Summer 2014 Class description: Functional overview of computer systems, interconnection of basic components, system performance measures, instruction set design, arithmetic logic unit, control unit, memory system, pipelining, interrupts and input-output. Instructor: Mr. Saad Ahmad Khan Teaching Assistants: Mr Junyao Zhang (zhangjunyao5518@gmail.com)
+Office Hours: Wed 4:00pm - 5:00pm (in HEC-231)
+Office: HEC - 315 Phone: (on last resort) E-mail: skhan@eecs.</description>
+    </item>
+    
+    <item>
       <title>工具小站</title>
       <link>/flinks.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
