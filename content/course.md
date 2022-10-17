@@ -12,4 +12,4 @@ copyright: false
 url: course.html
 ---
 
-[CDA3103 - Computer Logic and Organization](http://localhost:5000/course/test/)
+[CDA3103 - Computer Logic and Organization](/course/test/)
