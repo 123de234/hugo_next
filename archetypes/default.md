@@ -6,8 +6,7 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 categories:
   -
-tags:
-  -
+
 
 # 原文作者
 # Post's origin author name

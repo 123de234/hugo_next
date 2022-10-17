@@ -1,6 +1,6 @@
 ---
 title: "课程信息"
-description: "关于我的个人Wiki"
+description: ""
 
 date: 2022-09-30T20:12:52+08:00
 lastmod: 2022-09-030T20:12:52+08:00

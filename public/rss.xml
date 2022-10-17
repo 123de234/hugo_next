@@ -6,7 +6,16 @@
     <description>Recent content on 123de234&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Oct 2022 02:51:07 +0800</lastBuildDate><atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 17:49:10 +0800</lastBuildDate><atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDA3103 - Computer Logic and Organization </title>
+      <link>/course/test/</link>
+      <pubDate>Mon, 17 Oct 2022 17:49:10 +0800</pubDate>
+      
+      <guid>/course/test/</guid>
+      <description>CDA3103 - Computer Logic and Organization Summer 2014 Class description: Functional overview of computer systems, interconnection of basic components, system performance measures, instruction set design, arithmetic logic unit, control unit, memory system, pipelining, interrupts and input-output. Instructor: Mr. Saad Ahmad Khan Teaching Assistants: Mr Junyao Zhang (zhangjunyao5518@gmail.com) Office Hours: Wed 4:00pm - 5:00pm (in HEC-231) Office: HEC - 315 Phone: (on last resort) E-mail: skhan@eecs.ucf.edu (preferred means of communication) Web</description>
+    </item>
+    
     <item>
       <title>Markdown Test</title>
       <link>/post/markdown-test/</link>
@@ -32,18 +41,6 @@
       
       <guid>/course.html</guid>
       <description>CDA3103 - Computer Logic and Organization</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/course/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/course/test/</guid>
-      <description>CDA3103 - Computer Logic and Organization
-CDA3103 - Computer Logic and Organization Summer 2014 Class description: Functional overview of computer systems, interconnection of basic components, system performance measures, instruction set design, arithmetic logic unit, control unit, memory system, pipelining, interrupts and input-output. Instructor: Mr. Saad Ahmad Khan Teaching Assistants: Mr Junyao Zhang (zhangjunyao5518@gmail.com)
-Office Hours: Wed 4:00pm - 5:00pm (in HEC-231)
-Office: HEC - 315 Phone: (on last resort) E-mail: skhan@eecs.</description>
     </item>
     
     <item>
